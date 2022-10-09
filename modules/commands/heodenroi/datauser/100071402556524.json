@@ -1,0 +1,18 @@
+{
+    "name": "Tiến Dũng",
+    "ID": "100071402556524",
+    "shield": 3,
+    "coins": null,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "10:47:29, 13/4/2022"
+}

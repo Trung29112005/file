@@ -1,0 +1,18 @@
+{
+    "name": "Võ Thành Trung",
+    "ID": "100026687475112",
+    "shield": 3,
+    "coins": 20000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 20,
+    "timeRegister": "17:39:07, 12/4/2022"
+}
